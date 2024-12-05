@@ -1,4 +1,5 @@
-## Hi, I’m Yana, a computer science student with a background in accounting, passionate about problem-solving and data-driven solutions. Through my internships in software engineering and data science, I’ve contributed to automating workflows and analyzing large datasets using Python, R, SQL, and other programming languages, enhancing user efficiency and driving business improvements. I enjoy diving into challenges, learning new technologies, and collaborating with others to create practical and innovative solutions.
+## Hi, I’m Yana ✌️
+A computer science student with a background in accounting, passionate about problem-solving and data-driven solutions. Through my internships in software engineering and data science, I’ve contributed to automating workflows and analyzing large datasets using Python, R, SQL, and other programming languages, enhancing user efficiency and driving business improvements. I enjoy diving into challenges, learning new technologies, and collaborating with others to create practical and innovative solutions.
 
 I’m excited to continue growing in this field as a developer, tackling new challenges, and building impactful tools that make a difference
 
